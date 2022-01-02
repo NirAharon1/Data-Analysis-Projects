@@ -1,2 +1,2 @@
-# Data-Visualization-Projects
+# Data Analytics Projects
 All of my Data Visualization Projects
