@@ -12,8 +12,8 @@ The data in this set had been scrapped from an employment website named "indeed"
 * Visualization of the distribution of jobs by geographical location.
 * Discover the most demanded skills on the market.
 
-![juniors positions VS seniors positions](https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%201%20-%20Data%20Scientist%20Job%20Market%20in%20the%20U.S/positions.png )
 
+<img src="https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%201%20-%20Data%20Scientist%20Job%20Market%20in%20the%20U.S/positions.png" width="328" height="120">
 
 ##  <span style="color:red">[Project 2 - Google Play Store Apps](https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%202%20-%20Google%20Play%20Store%20Apps/google%20paly%20store%20apps.ipynb "Project 2 - Google Play Store Apps")</span>
 
@@ -32,7 +32,7 @@ you can view the link: https://www.kaggle.com/lava18/google-play-store-apps
 * Are paid apps getting more popular the free apps? 
 * What is the correlation between the rating of the app and the cost or her popularity.
 
-![juniors positions VS seniors positions](https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%202%20-%20Google%20Play%20Store%20Apps/Rating%20distribution.png ){:height="36px" width="36px"}
+<img src="https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%202%20-%20Google%20Play%20Store%20Apps/Rating%20distribution.png" width="120" height="120">
 
 
   
