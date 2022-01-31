@@ -2,7 +2,7 @@
 ###  <span style="color:red">[Project 1 - Data Scientist Job Market in the U.S](https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%201%20-%20Data%20Scientist%20Job%20Market%20in%20the%20U.S/DS%20job%20market.ipynb "Project 1 - Data Scientist Job Market in the U.S")</span>
 
 
-![Project Image](https://github.com/NirAharon1/Deep-Learing-Projects/blob/main/WavToSpecToClassification.PNG)
+![juniors VS seniors positions](https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%201%20-%20Data%20Scientist%20Job%20Market%20in%20the%20U.S/positions.png )
 
 
 ### Goals
