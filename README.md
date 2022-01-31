@@ -32,7 +32,7 @@ you can view the link: https://www.kaggle.com/lava18/google-play-store-apps
 * Are paid apps getting more popular the free apps? 
 * What is the correlation between the rating of the app and the cost or her popularity.
 
-![juniors positions VS seniors positions](https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%202%20-%20Google%20Play%20Store%20Apps/Rating%20distribution.png )
+![juniors positions VS seniors positions](https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%202%20-%20Google%20Play%20Store%20Apps/Rating%20distribution.png ){ width=50% }
 
 
   
