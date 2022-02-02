@@ -1,4 +1,4 @@
-# Data Analytics Projects
+# Data Analysis Projects
 ##  <span style="color:red">[Project 1 - Data Scientist Job Market in the U.S](https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%201%20-%20Data%20Scientist%20Job%20Market%20in%20the%20U.S/DS%20job%20market.ipynb "Project 1 - Data Scientist Job Market in the U.S")</span>
 
 ### Intro
@@ -13,7 +13,7 @@ The data in this set had been scrapped from an employment website named "indeed"
 * Discover the most demanded skills on the market.
 
 
-<img src="https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%201%20-%20Data%20Scientist%20Job%20Market%20in%20the%20U.S/positions.png" width="656" height="240">
+<img src="https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%201%20-%20Data%20Scientist%20Job%20Market%20in%20the%20U.S/positions.png" width="710" height="260">
 
 ##  <span style="color:red">[Project 2 - Google Play Store Apps](https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%202%20-%20Google%20Play%20Store%20Apps/google%20paly%20store%20apps.ipynb "Project 2 - Google Play Store Apps")</span>
 
@@ -32,7 +32,7 @@ you can view the link: https://www.kaggle.com/lava18/google-play-store-apps
 * Are paid apps getting more popular the free apps? 
 * What is the correlation between the rating of the app and the cost or her popularity.
 
-<img src="https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%202%20-%20Google%20Play%20Store%20Apps/Rating%20distribution.png" width="240" height="240">
+<img src="https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/Project%202%20-%20Google%20Play%20Store%20Apps/Rating%20distribution.png" width="280" height="280">
 
 
   
